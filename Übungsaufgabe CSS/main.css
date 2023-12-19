@@ -1,0 +1,24 @@
+/* Setzen	Sie	die	Hintergrundfarbe	der	gesamten	Seite	auf	„#fee“
+CSS-Eigenschaft für	Hintergrundfarbe:	background-color 
+Setzen	Sie	die	Schriftart	aller	Elemente	auf	„sans-serif
+CSS-Eigenschaft	für	Schriftart:	font-family*/
+
+html {
+    background-color: #fee;
+    font-family: sans-serif;
+}
+
+/*Setzen	Sie	die	Schriftart	aller	Überschriften	auf	„serif“
+CSS-Eigenschaft	für	Schriftart:	font-family*/
+
+h1, h2, h3 {
+    font-family: serif;
+}
+
+/* Erzeugen	Sie	einen	ID-Selektor mit	dem	Namen	„highlight“,	der	die	
+Schriftfarbe	auf	„red“	setzt	und	fügen	Sie	das	ID-Attribut mit	dem	Wert	
+„highlight“	der	Überschrift	2.	Ordnung	hinzu */
+
+#highlight {
+    color: red;
+}
