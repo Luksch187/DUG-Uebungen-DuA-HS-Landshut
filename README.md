@@ -1,1 +1,1 @@
-# DUG-Uebungen-DuA-HS-Landshut
+# HS-Landshut-DuA-Uebungen
